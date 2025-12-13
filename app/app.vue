@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full relative h-full pt-12 bg-zinc-50 dark:bg-zinc-950">
+  <div class="w-full relative h-full pt-12 bg-dark-50 dark:bg-dark-950">
     <div class="relative z-20">
       <LazySwitchMode />
       <UContainer>
@@ -10,16 +10,17 @@
           <LazyGallery />
         </div>
       </UContainer>
+      <LazyFooter />
     </div>
-    <Footer />
-    <img v-motion-fade-visible src="/shadow.png"
-      class="object-cover object-center fixed w-full h-full left-0 top-0 z-10 dark:mix-blend-soft-light"
-      alt="shadow-background" loading="lazy">
+    <div class="fixed bottom-0 left-0 z-10 size-full dark:mix-blend-soft-light dark:opacity-40">
+      <NuxtImg src="./shadow.png" class="object-cover object-center w-full h-full" alt="shadow-background"
+        loading="lazy" />
+    </div>
   </div>
 </template>
 
 <script setup>
-const img = useImage()
+
 useSeoMeta({
   title: 'Hato | Minimal Portfolio Showcase',
   ogTitle: 'Hato | Minimal Portfolio Showcase',

@@ -10,7 +10,7 @@ Look at [Nuxt docs](https://nuxt.com/docs/getting-started/introduction) and [Nux
 
 A minimal and elegant template, created with the purpose of serving as a landing page or one-page template, designed for those seeking simplicity and impeccably crafted web elements.
 
-Tailored for designers, agencies, or studios, this template is built with Nuxt 3, Nuxt UI, and TailwindCSS, bringing the best of web technology to the forefront.
+Tailored for designers, agencies, or studios, this template is built with Nuxt 4, Nuxt UI v4, and TailwindCSS, bringing the best of web technology to the forefront.
 
 - **Pages:** 1
 - **Sections:** 1
@@ -18,21 +18,21 @@ Tailored for designers, agencies, or studios, this template is built with Nuxt 3
 
 ## Features
 
-- 💚 [Nuxt 3](https://nuxt.com/) - Open source framework that makes web development intuitive and powerful.
-- 🎛 [Nuxt UI](https://ui.nuxt.com/) - A UI Library for Modern Web Apps.
-- 🎨 [TailwindCSS](https://tailwindcss.com/) - A utility-first CSS framework packed with classes.
-- 🤹 [VueUse/Motion](https://motion.vueuse.org/) - Composables putting your components in motion.
-- 🏞 [Nuxt Image](https://image.nuxt.com/) - Image optimization for Nuxt apps..
-- 😀 [Simple Icons & Heroicons](https://github.com/simple-icons/simple-icons) - Integration with Simple Icons & Heroicons.
-- ⚡️ [Vite](https://vitejs.dev/) - Powered by Vite, instant HMR.
-- 🦾 `<script setup lang="ts">` syntax with TypeScript support.
+- [Nuxt 4](https://nuxt.com/) - Open source framework that makes web development intuitive and powerful.
+- [Nuxt UI v4](https://ui.nuxt.com/) - A UI Library for Modern Web Apps.
+- [TailwindCSS](https://tailwindcss.com/) - A utility-first CSS framework packed with classes.
+- [VueUse/Motion](https://motion.vueuse.org/) - Composables putting your components in motion.
+- [Nuxt Image](https://image.nuxt.com/) - Image optimization for Nuxt apps..
+- [Simple Icons & Heroicons](https://github.com/simple-icons/simple-icons) - Integration with Simple Icons & Heroicons.
+- [Vite](https://vitejs.dev/) - Powered by Vite, instant HMR.
+- `<script setup lang="ts">` syntax with TypeScript support.
 
 ## Specifications
 
 - **Price:** Free
 - **Released date:** 13/04/23
 - **Version:** 0.1
-- **Tech Stack:** Nuxt 3 & TailwindCSS
+- **Tech Stack:** Nuxt 4 & Nuxt UI v4 & TailwindCSS
 - **Category:** Portfolio
 - **Page Speed:** 90 / 100 / 100 / 90
 - **Compatibility:** Chrome, Firefox, Safari, Brave, Arc, Edge
