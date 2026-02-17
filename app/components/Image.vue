@@ -1,7 +1,8 @@
 <template>
     <UModal v-model:open="showPreviewModal" fullscreen>
-        <NuxtImg :src="props.src" :placeholder="img(props.src, { width: 20, blur: 16, quality: 90 })" fit="cover"
-            class="size-60 object-center object-cover cursor-pointer transform-gpu transition-all ease-in-out duration-150 will-change-transform group-hover:scale-102 group-hover:group-odd:rotate-2 group-hover:group-even:-rotate-2"
+        <NuxtImg :src="props.src" :placeholder="img(props.src, { width: 90, blur: 16, quality: 90 })" fit="cover"
+            class="size-100 object-center object-cover cursor-pointer transform-gpu transition-all ease-in-out duration-150 
+            will-change-transform group-hover:scale-102 group-hover:group-odd:rotate-2 group-hover:group-even:-rotate-2 w-full"
             alt="image-work" loading="lazy" />
         <template #content>
             <div class="h-dvh relative p-4">
@@ -9,7 +10,7 @@
                     <UButton aria-label="button to close full preview" variant="ghost" color="neutral" icon="i-lucide-x"
                         class="ring-1 ring-blue-200 text-white" @click="showPreviewModal = false" />
                 </div>
-                <NuxtImg :src="props.src" :placeholder="img(props.src, { width: 20, blur: 16, quality: 90 })"
+                <NuxtImg :src="props.src" :placeholder="img(props.src, { width: 100, blur: 16, quality: 90 })"
                     fit="cover" class="size-full object-center object-cover" loading="lazy" />
             </div>
         </template>

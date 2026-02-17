@@ -6,55 +6,28 @@ export default defineAppConfig({
     }
 },
   data: {
-    name: "Paula White",
-    photo: "https://d3ynb031qx3d1.cloudfront.net/general-demos/demo-gallery-10.webp",
-    title: "Software Engineer",
-    bio: "I'm a software engineer with a passion for building web applications that are both functional and aesthetically pleasing.",
+    name: "Cedric Isubol",
+    photo: "https://i.postimg.cc/9MpcdVs9/cedblack.jpg",
+    title: "Back-End Developer",
+    bio: "I'm a Back-End Developer with a passion for building web applications that are both functional and aesthetically pleasing.",
     website: "https://cesswhite.com",
     phone: "+00 000 000 0000",
-    email: "example@example.com",
+    email: "cedricisubol@gmail.com",
     x: "",
-    facebook: "https://www.facebook.com/ecostudiodev",
-    instagram: "https://www.instagram.com/ecostudios_dev/",
-    tiktok: "https://cesswhite.com",
-    github: "https://github.com/cesswhite/hato-minimal-template",
+    facebook: "https://www.facebook.com/cedric888",
+    instagram: "https://www.instagram.com/xcedd",
+    tiktok: "https://tiktok.com",
+    github: "https://github.com/technobytedev",
     gallery: [
       {
-          url: "https://d3ynb031qx3d1.cloudfront.net/general-demos/demo-gallery-0.webp",
-          alt: "Gallery: A Minimal portfolio template by Raíz designs"
+          url: "https://i.postimg.cc/HsJVgcqH/Screenshot_2026_02_17_120305.png",
+          alt: "Learning App for Pinoy Elementarty Student"
       },
       {
-          url: "https://d3ynb031qx3d1.cloudfront.net/general-demos/demo-gallery-1.webp",
-          alt: "Gallery: A Minimal portfolio template by Raíz designs"
+          url: "https://i.postimg.cc/VLSd8rxc/Screenshot_2026_02_17_120344.png",
+          alt: "Foundation for free wheelchairs, donate & request feature."
       },
-      {
-          url: "https://d3ynb031qx3d1.cloudfront.net/general-demos/demo-gallery-2.webp",
-          alt: "Gallery: A Minimal portfolio template by Raíz designs"
-      },
-      {
-          url: "https://d3ynb031qx3d1.cloudfront.net/general-demos/demo-gallery-3.webp",
-          alt: "Gallery: A Minimal portfolio template by Raíz designs"
-      },
-      {
-          url: "https://d3ynb031qx3d1.cloudfront.net/general-demos/demo-gallery-5.webp",
-          alt: "Gallery: A Minimal portfolio template by Raíz designs"
-      },
-      {
-          url: "https://d3ynb031qx3d1.cloudfront.net/general-demos/demo-gallery-8.webp",
-          alt: "Gallery: A Minimal portfolio template by Raíz designs"
-      },
-      {
-          url: "https://d3ynb031qx3d1.cloudfront.net/general-demos/demo-gallery-9.webp",
-          alt: "Gallery: A Minimal portfolio template by Raíz designs"
-      },
-      {
-          url: "https://d3ynb031qx3d1.cloudfront.net/general-demos/demo-gallery-11.webp",
-          alt: "Gallery: A Minimal portfolio template by Raíz designs"
-      },
-      {
-          url: "https://d3ynb031qx3d1.cloudfront.net/general-demos/demo-gallery-12.webp",
-          alt: "Gallery: A Minimal portfolio template by Raíz designs"
-      },
+
   ]
   },
 });
