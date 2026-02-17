@@ -22,19 +22,19 @@
 <script setup>
 
 useSeoMeta({
-  title: 'Hato | Minimal Portfolio Showcase',
-  ogTitle: 'Hato | Minimal Portfolio Showcase',
+  title: 'Cedric Isubol | Minimal Portfolio Showcase',
+  ogTitle: 'Cedric Isubol | Minimal Portfolio Showcase',
   description:
-    'Discover Hato, the sleek portfolio website perfect for freelancers, photographers, and artists made with Nuxt UI',
+    'Discover Cedric Isubol, the sleek portfolio website perfect for freelancers, and artists made with Nuxt UI',
   ogDescription:
-    'Discover Hato, the sleek portfolio website perfect for freelancers, photographers, and artists made with Nuxt UI',
-  ogImage: "https://res.cloudinary.com/dkr1hluva/image/upload/v1713023084/og/og-hato_roec1l.jpg",
-  ogImageSecureUrl: 'https://res.cloudinary.com/dkr1hluva/image/upload/v1713023084/og/og-hato_roec1l.jpg',
-  ogUrl: 'https://res.cloudinary.com/dkr1hluva/image/upload/v1713023084/og/og-hato_roec1l.jpg',
-  twitterImage: "https://res.cloudinary.com/dkr1hluva/image/upload/v1713023084/og/og-hato_roec1l.jpg",
+    'Discover Cedric Isubol, the sleek portfolio website perfect for freelancers, photographers, and artists made with Nuxt UI',
+  ogImage: "https://res.cloudinary.com/dkr1hluva/image/upload/v1713023084/og/og-Cedric Isubol_roec1l.jpg",
+  ogImageSecureUrl: 'https://res.cloudinary.com/dkr1hluva/image/upload/v1713023084/og/og-Cedric Isubol_roec1l.jpg',
+  ogUrl: 'https://res.cloudinary.com/dkr1hluva/image/upload/v1713023084/og/og-Cedric Isubol_roec1l.jpg',
+  twitterImage: "https://res.cloudinary.com/dkr1hluva/image/upload/v1713023084/og/og-Cedric Isubol_roec1l.jpg",
   twitterCard: "summary_large_image",
-  twitterTitle: 'Hato | Minimal Portfolio Showcase',
-  twitterDescription: 'Discover Hato, the sleek portfolio website perfect for freelancers, photographers, and artists made with Nuxt UI',
+  twitterTitle: 'Cedric Isubol | Minimal Portfolio Showcase',
+  twitterDescription: 'Discover Cedric Isubol, the sleek portfolio website perfect for freelancers, photographers, and artists made with Nuxt UI',
   ogImageWidth: 1280,
   ogImageHeight: 720,
 });
